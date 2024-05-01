@@ -2,5 +2,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+
+  }
+
+  .hero-image img {
     width: 300px;
   }
